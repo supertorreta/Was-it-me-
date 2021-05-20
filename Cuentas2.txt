@@ -1,0 +1,62 @@
+
+ 1 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4180943953261968
+    BANCO		: BANCOMER, S.A.
+    NOMBRE		: Valrie Kucharski
+    DIRECCIÓN		: Rudolstaedter Strasse 33
+    PAÍS		: MEXICO
+    DINERO	: $912
+    CVV/CVV2		: 909
+    FECHA DE CADUCIDAD	: 07/2021
+    PIN DE TARJETA	: 6462
+    
+ 2 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4180944098555827
+    BANCO		: BANCOMER, S.A.
+    NOMBRE		: Evald Madetoja
+    DIRECCIÓN		: Klmn Imre u. 92.
+    PAÍS		: MEXICO
+    DINERO	: $507
+    CVV/CVV2		: 252
+    FECHA DE CADUCIDAD	: 04/2025
+    PIN DE TARJETA	: 7154
+    
+ 3 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4180947890945559
+    BANCO		: BANCOMER, S.A.
+    NOMBRE		: Norimi Lothran
+    DIRECCIÓN		: Akurbraut 22
+    PAÍS		: MEXICO
+    DINERO	: $848
+    CVV/CVV2		: 977
+    FECHA DE CADUCIDAD	: 04/2025
+    PIN DE TARJETA	: 3035
+    
+ 4 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4180948289659058
+    BANCO		: BANCOMER, S.A.
+    NOMBRE		: Yasutaka Pethebridge
+    DIRECCIÓN		: 280 M. Sfakianaki
+    PAÍS		: MEXICO
+    DINERO	: $732
+    CVV/CVV2		: 696
+    FECHA DE CADUCIDAD	: 11/2022
+    PIN DE TARJETA	: 8132
+    
+ 5 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4180947533361941
+    BANCO		: BANCOMER, S.A.
+    NOMBRE		: sa Czerwinska
+    DIRECCIÓN		: 33 Tonbridge Rd
+    PAÍS		: MEXICO
+    DINERO	: $854
+    CVV/CVV2		: 180
+    FECHA DE CADUCIDAD	: 06/2021
+    PIN DE TARJETA	: 1134
+    
+

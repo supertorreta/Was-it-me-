@@ -1,0 +1,63 @@
+
+ 1 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4915761269190867
+    BANCO		: BANORTE
+    NOMBRE		: Knud Enyinnaya
+    DIRECCIÓN		: Parmova 36
+    PAÍS		: MEXICO
+    DINERO	: $785
+    CVV/CVV2		: 348
+    FECHA DE CADUCIDAD	: 07/2022
+    PIN DE TARJETA	: 9474
+    
+ 2 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4189254365460797
+    BANCO		: BANORTE
+    NOMBRE		: Nwadimkpa Cremonesi
+    DIRECCIÓN		: Forrenbhlstrasse 56
+    PAÍS		: MEXICO
+    DINERO	: $813
+    CVV/CVV2		: 512
+    FECHA DE CADUCIDAD	: 11/2024
+    PIN DE TARJETA	: 2595
+    
+ 3 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4189256886405128
+    BANCO		: BANORTE
+    NOMBRE		: Shi adl
+    DIRECCIÓN		: Kammelenbergstrasse 78
+    PAÍS		: MEXICO
+    DINERO	: $524
+    CVV/CVV2		: 769
+    FECHA DE CADUCIDAD	: 01/2023
+    PIN DE TARJETA	: 3973
+    
+ 4 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4915765282972235
+    BANCO		: BANORTE
+    NOMBRE		: Eugeniusz Kjelstad
+    DIRECCIÓN		: 162 Gladstonos
+    PAÍS		: MEXICO
+    DINERO	: $659
+    CVV/CVV2		: 298
+    FECHA DE CADUCIDAD	: 12/2026
+    PIN DE TARJETA	: 8977
+    
+ 5 ) 
+    MARCA DE CARRO	: VISA
+    NÚMERO DE TARJETA	: 4915762892559924
+    BANCO		: BANORTE
+    NOMBRE		: Aija Torath
+    DIRECCIÓN		: 1786 Impala St
+    PAÍS		: MEXICO
+    DINERO	: $568
+    CVV/CVV2		: 425
+    FECHA DE CADUCIDAD	: 01/2021
+    PIN DE TARJETA	: 4118
+    
+
+
